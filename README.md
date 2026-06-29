@@ -1,6 +1,6 @@
 # IronCircuit 🛡️
 
-![IronCircuit Logo](assets/logo.png)
+<img src="ironcircuit_logo.png" alt="IronCircuit logo" width="600px">
 
 **The High-Performance C++ Circuit Breaker for LLM Token Governance.**
 
